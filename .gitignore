@@ -1,2 +1,4 @@
 bus-assigning-app/node_modules/
 bus-assigning-server/node_modules/
+# Environment variables
+.env
